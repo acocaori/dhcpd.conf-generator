@@ -1,0 +1,9 @@
+---
+ - hosts: localhost
+   gather_facts: no
+   tasks:
+    - template:
+       src: "{{playbook_dir}}/template.j2" 
+       dest: ./dhcpd.conf
+      delegate_to: localhost
+

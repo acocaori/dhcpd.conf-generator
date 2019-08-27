@@ -1,0 +1,201 @@
+csv_data:
+- {eth0_ip: 192.168.0.1, eth0_mac: '24:8a:07:0b:29:70', hostname: anu_oob_leaf001,
+  rack: rack001}
+- {eth0_ip: 192.168.0.2, eth0_mac: '24:8a:07:0b:29:71', hostname: anu_oob_leaf002,
+  rack: rack002}
+- {eth0_ip: 192.168.0.3, eth0_mac: '24:8a:07:0b:29:72', hostname: anu_oob_leaf003,
+  rack: rack003}
+- {eth0_ip: 192.168.0.4, eth0_mac: '24:8a:07:0b:29:73', hostname: anu_oob_leaf004,
+  rack: rack004}
+- {eth0_ip: 192.168.0.5, eth0_mac: '24:8a:07:0b:29:74', hostname: anu_oob_leaf005,
+  rack: rack005}
+- {eth0_ip: 192.168.0.6, eth0_mac: '24:8a:07:0b:29:75', hostname: anu_oob_leaf006,
+  rack: rack006}
+- {eth0_ip: 192.168.0.7, eth0_mac: '24:8a:07:0b:29:76', hostname: anu_oob_leaf007,
+  rack: rack007}
+- {eth0_ip: 192.168.0.8, eth0_mac: '24:8a:07:0b:29:77', hostname: anu_oob_leaf008,
+  rack: rack008}
+- {eth0_ip: 192.168.0.9, eth0_mac: '24:8a:07:0b:29:78', hostname: anu_oob_leaf009,
+  rack: rack009}
+- {eth0_ip: 192.168.0.10, eth0_mac: '24:8a:07:0b:29:79', hostname: anu_oob_leaf010,
+  rack: rack010}
+- {eth0_ip: 192.168.0.11, eth0_mac: '24:8a:07:0b:29:80', hostname: anu_oob_leaf011,
+  rack: rack011}
+- {eth0_ip: 192.168.0.12, eth0_mac: '24:8a:07:0b:29:81', hostname: anu_oob_leaf012,
+  rack: rack012}
+- {eth0_ip: 192.168.0.13, eth0_mac: '24:8a:07:0b:29:82', hostname: anu_oob_leaf013,
+  rack: rack013}
+- {eth0_ip: 192.168.0.14, eth0_mac: '24:8a:07:0b:29:83', hostname: anu_oob_leaf014,
+  rack: rack014}
+- {eth0_ip: 192.168.0.15, eth0_mac: '24:8a:07:0b:29:84', hostname: anu_oob_leaf015,
+  rack: rack015}
+- {eth0_ip: 192.168.0.16, eth0_mac: '24:8a:07:0b:29:85', hostname: anu_oob_leaf016,
+  rack: rack016}
+- {eth0_ip: 192.168.0.17, eth0_mac: '24:8a:07:0b:29:86', hostname: anu_oob_leaf017,
+  rack: rack017}
+- {eth0_ip: 192.168.0.18, eth0_mac: '24:8a:07:0b:29:87', hostname: anu_oob_leaf018,
+  rack: rack018}
+- {eth0_ip: 192.168.0.19, eth0_mac: '24:8a:07:0b:29:88', hostname: anu_oob_leaf019,
+  rack: rack019}
+- {eth0_ip: 192.168.0.20, eth0_mac: '24:8a:07:0b:29:89', hostname: anu_oob_leaf020,
+  rack: rack020}
+- {eth0_ip: 192.168.0.21, eth0_mac: '24:8a:07:0b:29:90', hostname: anu_oob_leaf021,
+  rack: rack021}
+- {eth0_ip: 192.168.0.22, eth0_mac: '24:8a:07:0b:29:91', hostname: anu_oob_leaf022,
+  rack: rack022}
+- {eth0_ip: 192.168.0.23, eth0_mac: '24:8a:07:0b:29:92', hostname: anu_oob_leaf023,
+  rack: rack023}
+- {eth0_ip: 192.168.0.24, eth0_mac: '24:8a:07:0b:29:93', hostname: anu_oob_leaf024,
+  rack: rack024}
+- {eth0_ip: 192.168.0.25, eth0_mac: '24:8a:07:0b:29:94', hostname: anu_oob_leaf025,
+  rack: rack025}
+- {eth0_ip: 192.168.0.26, eth0_mac: '24:8a:07:0b:29:95', hostname: anu_oob_leaf026,
+  rack: rack026}
+- {eth0_ip: 192.168.0.27, eth0_mac: '24:8a:07:0b:29:96', hostname: anu_oob_leaf027,
+  rack: rack027}
+- {eth0_ip: 192.168.0.28, eth0_mac: '24:8a:07:0b:29:97', hostname: anu_oob_leaf028,
+  rack: rack028}
+- {eth0_ip: 192.168.0.29, eth0_mac: '24:8a:07:0b:29:98', hostname: anu_oob_leaf029,
+  rack: rack029}
+- {eth0_ip: 192.168.0.30, eth0_mac: '24:8a:07:0b:29:99', hostname: anu_oob_leaf030,
+  rack: rack030}
+- {eth0_ip: 192.168.0.31, eth0_mac: '24:8a:07:0b:29:100', hostname: anu_oob_leaf031,
+  rack: rack031}
+- {eth0_ip: 192.168.0.32, eth0_mac: '24:8a:07:0b:29:101', hostname: anu_oob_leaf032,
+  rack: rack032}
+- {eth0_ip: 192.168.0.33, eth0_mac: '24:8a:07:0b:29:102', hostname: anu_oob_leaf033,
+  rack: rack033}
+- {eth0_ip: 192.168.0.34, eth0_mac: '24:8a:07:0b:29:103', hostname: anu_oob_leaf034,
+  rack: rack034}
+- {eth0_ip: 192.168.0.35, eth0_mac: '24:8a:07:0b:29:104', hostname: anu_oob_leaf035,
+  rack: rack035}
+- {eth0_ip: 192.168.0.36, eth0_mac: '24:8a:07:0b:29:105', hostname: anu_oob_leaf036,
+  rack: rack036}
+- {eth0_ip: 192.168.0.37, eth0_mac: '24:8a:07:0b:29:106', hostname: anu_oob_leaf037,
+  rack: rack037}
+- {eth0_ip: 192.168.0.38, eth0_mac: '24:8a:07:0b:29:107', hostname: anu_oob_leaf038,
+  rack: rack038}
+- {eth0_ip: 192.168.0.39, eth0_mac: '24:8a:07:0b:29:108', hostname: anu_oob_leaf039,
+  rack: rack039}
+- {eth0_ip: 192.168.0.40, eth0_mac: '24:8a:07:0b:29:109', hostname: anu_oob_leaf040,
+  rack: rack040}
+- {eth0_ip: 192.168.0.41, eth0_mac: '24:8a:07:0b:29:110', hostname: anu_oob_leaf041,
+  rack: rack041}
+- {eth0_ip: 192.168.0.42, eth0_mac: '24:8a:07:0b:29:111', hostname: anu_oob_leaf042,
+  rack: rack042}
+- {eth0_ip: 192.168.0.43, eth0_mac: '24:8a:07:0b:29:112', hostname: anu_oob_leaf043,
+  rack: rack043}
+- {eth0_ip: 192.168.0.44, eth0_mac: '24:8a:07:0b:29:113', hostname: anu_oob_leaf044,
+  rack: rack044}
+- {eth0_ip: 192.168.0.45, eth0_mac: '24:8a:07:0b:29:114', hostname: anu_oob_leaf045,
+  rack: rack045}
+- {eth0_ip: 192.168.0.46, eth0_mac: '24:8a:07:0b:29:115', hostname: anu_oob_leaf046,
+  rack: rack046}
+- {eth0_ip: 192.168.0.47, eth0_mac: '24:8a:07:0b:29:116', hostname: anu_oob_leaf047,
+  rack: rack047}
+- {eth0_ip: 192.168.0.48, eth0_mac: '24:8a:07:0b:29:117', hostname: anu_oob_leaf048,
+  rack: rack048}
+- {eth0_ip: 192.168.0.49, eth0_mac: '24:8a:07:0b:29:118', hostname: anu_oob_leaf049,
+  rack: rack049}
+- {eth0_ip: 192.168.0.50, eth0_mac: '24:8a:07:0b:29:119', hostname: anu_oob_leaf050,
+  rack: rack050}
+- {eth0_ip: 192.168.0.51, eth0_mac: '24:8a:07:0b:29:120', hostname: anu_oob_leaf051,
+  rack: rack051}
+- {eth0_ip: 192.168.0.52, eth0_mac: '24:8a:07:0b:29:121', hostname: anu_oob_leaf052,
+  rack: rack052}
+- {eth0_ip: 192.168.0.53, eth0_mac: '24:8a:07:0b:29:122', hostname: anu_oob_leaf053,
+  rack: rack053}
+- {eth0_ip: 192.168.0.54, eth0_mac: '24:8a:07:0b:29:123', hostname: anu_oob_leaf054,
+  rack: rack054}
+- {eth0_ip: 192.168.0.55, eth0_mac: '24:8a:07:0b:29:124', hostname: anu_oob_leaf055,
+  rack: rack055}
+- {eth0_ip: 192.168.0.56, eth0_mac: '24:8a:07:0b:29:125', hostname: anu_oob_leaf056,
+  rack: rack056}
+- {eth0_ip: 192.168.0.57, eth0_mac: '24:8a:07:0b:29:126', hostname: anu_oob_leaf057,
+  rack: rack057}
+- {eth0_ip: 192.168.0.58, eth0_mac: '24:8a:07:0b:29:127', hostname: anu_oob_leaf058,
+  rack: rack058}
+- {eth0_ip: 192.168.0.59, eth0_mac: '24:8a:07:0b:29:128', hostname: anu_oob_leaf059,
+  rack: rack059}
+- {eth0_ip: 192.168.0.60, eth0_mac: '24:8a:07:0b:29:129', hostname: anu_oob_leaf060,
+  rack: rack060}
+- {eth0_ip: 192.168.0.61, eth0_mac: '24:8a:07:0b:29:130', hostname: anu_oob_leaf061,
+  rack: rack061}
+- {eth0_ip: 192.168.0.62, eth0_mac: '24:8a:07:0b:29:131', hostname: anu_oob_leaf062,
+  rack: rack062}
+- {eth0_ip: 192.168.0.63, eth0_mac: '24:8a:07:0b:29:132', hostname: anu_oob_leaf063,
+  rack: rack063}
+- {eth0_ip: 192.168.0.64, eth0_mac: '24:8a:07:0b:29:133', hostname: anu_oob_leaf064,
+  rack: rack064}
+- {eth0_ip: 192.168.0.65, eth0_mac: '24:8a:07:0b:29:134', hostname: anu_oob_leaf065,
+  rack: rack065}
+- {eth0_ip: 192.168.0.66, eth0_mac: '24:8a:07:0b:29:135', hostname: anu_oob_leaf066,
+  rack: rack066}
+- {eth0_ip: 192.168.0.67, eth0_mac: '24:8a:07:0b:29:136', hostname: anu_oob_leaf067,
+  rack: rack067}
+- {eth0_ip: 192.168.0.68, eth0_mac: '24:8a:07:0b:29:137', hostname: anu_oob_leaf068,
+  rack: rack068}
+- {eth0_ip: 192.168.0.69, eth0_mac: '24:8a:07:0b:29:138', hostname: anu_oob_leaf069,
+  rack: rack069}
+- {eth0_ip: 192.168.0.70, eth0_mac: '24:8a:07:0b:29:139', hostname: anu_oob_leaf070,
+  rack: rack070}
+- {eth0_ip: 192.168.0.71, eth0_mac: '24:8a:07:0b:29:140', hostname: anu_oob_leaf071,
+  rack: rack071}
+- {eth0_ip: 192.168.0.72, eth0_mac: '24:8a:07:0b:29:141', hostname: anu_oob_leaf072,
+  rack: rack072}
+- {eth0_ip: 192.168.0.73, eth0_mac: '24:8a:07:0b:29:142', hostname: anu_oob_leaf073,
+  rack: rack073}
+- {eth0_ip: 192.168.0.74, eth0_mac: '24:8a:07:0b:29:143', hostname: anu_oob_leaf074,
+  rack: rack074}
+- {eth0_ip: 192.168.0.75, eth0_mac: '24:8a:07:0b:29:144', hostname: anu_oob_leaf075,
+  rack: rack075}
+- {eth0_ip: 192.168.0.76, eth0_mac: '24:8a:07:0b:29:145', hostname: anu_oob_leaf076,
+  rack: rack076}
+- {eth0_ip: 192.168.0.77, eth0_mac: '24:8a:07:0b:29:146', hostname: anu_oob_leaf077,
+  rack: rack077}
+- {eth0_ip: 192.168.0.78, eth0_mac: '24:8a:07:0b:29:147', hostname: anu_oob_leaf078,
+  rack: rack078}
+- {eth0_ip: 192.168.0.79, eth0_mac: '24:8a:07:0b:29:148', hostname: anu_oob_leaf079,
+  rack: rack079}
+- {eth0_ip: 192.168.0.80, eth0_mac: '24:8a:07:0b:29:149', hostname: anu_oob_leaf080,
+  rack: rack080}
+- {eth0_ip: 192.168.0.81, eth0_mac: '24:8a:07:0b:29:150', hostname: anu_oob_leaf081,
+  rack: rack081}
+- {eth0_ip: 192.168.0.82, eth0_mac: '24:8a:07:0b:29:151', hostname: anu_oob_leaf082,
+  rack: rack082}
+- {eth0_ip: 192.168.0.83, eth0_mac: '24:8a:07:0b:29:152', hostname: anu_oob_leaf083,
+  rack: rack083}
+- {eth0_ip: 192.168.0.84, eth0_mac: '24:8a:07:0b:29:153', hostname: anu_oob_leaf084,
+  rack: rack084}
+- {eth0_ip: 192.168.0.85, eth0_mac: '24:8a:07:0b:29:154', hostname: anu_oob_leaf085,
+  rack: rack085}
+- {eth0_ip: 192.168.0.86, eth0_mac: '24:8a:07:0b:29:155', hostname: anu_oob_leaf086,
+  rack: rack086}
+- {eth0_ip: 192.168.0.87, eth0_mac: '24:8a:07:0b:29:156', hostname: anu_oob_leaf087,
+  rack: rack087}
+- {eth0_ip: 192.168.0.88, eth0_mac: '24:8a:07:0b:29:157', hostname: anu_oob_leaf088,
+  rack: rack088}
+- {eth0_ip: 192.168.0.89, eth0_mac: '24:8a:07:0b:29:158', hostname: anu_oob_leaf089,
+  rack: rack089}
+- {eth0_ip: 192.168.0.90, eth0_mac: '24:8a:07:0b:29:159', hostname: anu_oob_leaf090,
+  rack: rack090}
+- {eth0_ip: 192.168.0.91, eth0_mac: '24:8a:07:0b:29:160', hostname: anu_oob_leaf091,
+  rack: rack091}
+- {eth0_ip: 192.168.0.92, eth0_mac: '24:8a:07:0b:29:161', hostname: anu_oob_leaf092,
+  rack: rack092}
+- {eth0_ip: 192.168.0.93, eth0_mac: '24:8a:07:0b:29:162', hostname: anu_oob_leaf093,
+  rack: rack093}
+- {eth0_ip: 192.168.0.94, eth0_mac: '24:8a:07:0b:29:163', hostname: anu_oob_leaf094,
+  rack: rack094}
+- {eth0_ip: 192.168.0.95, eth0_mac: '24:8a:07:0b:29:164', hostname: anu_oob_leaf095,
+  rack: rack095}
+- {eth0_ip: 192.168.0.96, eth0_mac: '24:8a:07:0b:29:165', hostname: anu_oob_leaf096,
+  rack: rack096}
+- {eth0_ip: 192.168.0.97, eth0_mac: '24:8a:07:0b:29:166', hostname: anu_oob_leaf097,
+  rack: rack097}
+- {eth0_ip: 192.168.0.98, eth0_mac: '24:8a:07:0b:29:167', hostname: anu_oob_leaf098,
+  rack: rack098}
+- {eth0_ip: 192.168.0.99, eth0_mac: '24:8a:07:0b:29:168', hostname: anu_oob_leaf099,
+  rack: rack099}
+- {eth0_ip: 192.168.0.100, eth0_mac: '24:8a:07:0b:29:169', hostname: anu_oob_leaf100,
+  rack: rack100}
